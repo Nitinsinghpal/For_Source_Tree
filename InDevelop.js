@@ -7,7 +7,15 @@ function SecondStash(){
 function ChangeAfterStash(params) {
     
 }
-
+function AgainWithCheckStash(params) {
+    
+}
 function check(params) {
+    
+}
+function name(params) {
+    
+}
+function checkMergeOptionInVSCode(params) {
     
 }
